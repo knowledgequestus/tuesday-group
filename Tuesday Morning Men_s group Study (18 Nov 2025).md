@@ -1,10 +1,8 @@
+ [ Tuesday Morning Men's group Study (18 Nov 2025)]( Tuesday Morning Men's group Study (18 Nov 2025))
 ---
 title: Tuesday Morning Men's group Study (18 Nov 2025)
 updated: 2025-11-17 15:32:30Z
-created: 2025-06-30 15:40:56Z
-latitude: 41.87811360
-longitude: -87.62979820
-altitude: 0.0000
+
 ---
 
 &nbsp;
